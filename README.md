@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my blog.
 
-You can use the [editor on GitHub](https://github.com/jvmvik/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The year 2020 is about to start. I have written a thing in 5years.
+I'm kicking off this blog with multiple goals in mind.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Improve my writting skills (noted that French is my native languages, I spent 8 years in Austin, Texas).
+ - Keep track of my current thinkings. It's kind of fun to read your craft after a few years ago.
+ - Connecting the dots in time and space.
 
-### Markdown
+Introduction
+--- 
+Well, I borned in Lyon in 1985. I spend years writting software for fun then make it full time well paid real job. I did initially study electronic from high school to preparatory school / graduate degree, then I finish with a master in semiconductor. Started my carreer in high profile hardware/software company named Arm. 
+I moved to USA looking for interesting work and more future proof thinking. 10years later I'm still working from the same company. I will explore all topics like politic, future, technology, financing... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - **2013** I met my wife in Texas.
+ - **2017** is the year where my daughter was borned. The following 2years were busy between my new job of dad and my existing job of software developer / design automation.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jvmvik/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-----
+url: blog.pigeonstorm.com
